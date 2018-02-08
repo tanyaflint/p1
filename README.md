@@ -1,9 +1,9 @@
 # Project 1
 + By: *Tatiana Flint*
-+ Production URL: <http://p1.ideamcode.me>
++ Production URL: <http://p1.idreamcode.me>
 
 ## Outside resources
-*Google Fonts: PT Sans* <https://fonts.google.com/>
+*Google Fonts: PT Sans* <https://fonts.google.com/>  
 *Blockquote style* <https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/>
 
 
