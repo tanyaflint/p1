@@ -8,4 +8,4 @@
 
 
 ## Notes for instructor
-*any notes for me to refer to while grading; if none, omit this section*
+I used external CSS for the Blockquote(referenced above), but I have complete understanding of what each CSS line does. Since design was not the primarily goal of this project I assumed it's ok, I noticed that in the example bootstrap was used to style the quote, but I did not want to link bootstrap just for the styling of the Blockquote. Hope that works.
